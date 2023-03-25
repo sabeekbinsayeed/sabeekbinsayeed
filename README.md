@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Sabeek Bin Sayeed
 #### Programmer | Web developer | Learner 
-![Programmer | Web developer | Learner ](https://media.licdn.com/dms/image/D5616AQEJYwrdjvNLyQ/profile-displaybackgroundimage-shrink_350_1400/0/1675004978397?e=1684972800&v=beta&t=fm3EvVkSg3O0FUkIjK6Xq5Y9eHDSDz1Q9ylgycS9wbA)
-
-Assalamu alaikum, I'm Sabeek Bin Sayeed, a passionate programmer, web developer and teacher with a Bachelor's degree in Computer Science.
+Assalamu alaikum, I'm Sabeek Bin Sayeed, a passionate programmer, web developer and teacher. 
 
 I have a proven track record of sharing my programming knowledge with others, through various organizations and my popular Python course on Amar iSchool. My experience as a project manager and content writer at Miritus Limited has honed my leadership and technical skills. I also run a Facebook group of 4k members, where I share tech articles, blogs, and videos, as well as a YouTube channel to further spread my knowledge.
 
@@ -21,7 +19,5 @@ Skills: REACT / JS / HTML / CSS / Bootstrap / TailwindCSS / Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabeekbinsayeed)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabeekbinsayeed&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabeekbinsayeed)  
 
 ![Profile views](https://gpvc.arturio.dev/sabeekbinsayeed)  
